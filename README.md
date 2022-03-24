@@ -8,6 +8,7 @@ huanglei 2022-03-24
 
 将多个模型在指定的Unity场景中截取前后左右顶5个方向的视图。
 默认截图长宽高1000*1000*2600cm的位于原点的模型。如果有其他需求可以直接调整相机位置
+
 ![image](https://user-images.githubusercontent.com/17068469/159889375-8b649e2d-66a8-4035-9843-87beb0b4c5e1.png)
 ![image](https://user-images.githubusercontent.com/17068469/159889495-f942da7e-abcc-4587-929f-b690164db9ff.png)
 
