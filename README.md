@@ -27,11 +27,16 @@ huanglei 2022-03-24
 8. 如果相机视角不满意，可以进入场景中调整相机位置和视角。
 9. 如果对截图方向数目不满意，请邮箱联系作者升级hulnglei@163.com
 
+
 ###########目录结构描述
 ├── Readme.md                   // help
+
 ├── all.prefab                  // 示范模型
+
 ├── Camera.prefab               // 5个视图示范相机及拍摄功能
+
 │   ├── CameraCapture.cs		// 截图脚本
+
 │   ├── CameraCaptureEditor.cs	// Editor UI
 
 
