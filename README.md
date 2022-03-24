@@ -35,9 +35,9 @@ huanglei 2022-03-24
 
 ├── Camera.prefab               // 5个视图示范相机及拍摄功能
 
-│   ├── CameraCapture.cs		// 截图脚本
+│── CameraCapture.cs		// 截图脚本
 
-│   ├── CameraCaptureEditor.cs	// Editor UI
+│── CameraCaptureEditor.cs	// Editor UI
 
 
 
